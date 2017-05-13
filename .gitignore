@@ -9,7 +9,6 @@
 # if you remove the above rule, at least ignore the following:
 patterns/
 TODO.md
-bench/
 log/
 
 # User-specific stuff:
