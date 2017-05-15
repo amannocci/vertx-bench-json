@@ -18,11 +18,11 @@ Simply launch compiled jar :
 
 ## Result
 ```
-# Run complete. Total time: 00:27:14
+# Run complete. Total time: 00:27:19
 
 Benchmark                         Mode  Cnt       Score     Error  Units
-JsonBenchmark.testNewJsonArray   thrpt  200   51411,287 ± 369,807  ops/s
-JsonBenchmark.testNewJsonObject  thrpt  200  103836,793 ± 944,890  ops/s
-JsonBenchmark.testOldJsonArray   thrpt  200   39609,818 ± 273,973  ops/s
-JsonBenchmark.testOldJsonObject  thrpt  200   78209,119 ± 519,875  ops/s
+JsonBenchmark.testNewJsonArray   thrpt  200   52004,058 ± 391,153  ops/s
+JsonBenchmark.testNewJsonObject  thrpt  200  103620,960 ± 681,895  ops/s
+JsonBenchmark.testOldJsonArray   thrpt  200   40164,809 ± 295,782  ops/s
+JsonBenchmark.testOldJsonObject  thrpt  200   78245,268 ± 608,647  ops/s
 ```
